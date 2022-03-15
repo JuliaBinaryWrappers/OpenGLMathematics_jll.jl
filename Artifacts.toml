@@ -1,0 +1,6 @@
+[OpenGLMathematics]
+git-tree-sha1 = "a4d9f792968486bda4a808c5875a69f6a19b9e7f"
+
+    [[OpenGLMathematics.download]]
+    sha256 = "e4466ab07ab32096970ad4b5e12ad80788590533194a58bcd6d6503227cde693"
+    url = "https://github.com/JuliaBinaryWrappers/OpenGLMathematics_jll.jl/releases/download/OpenGLMathematics-v0.9.9+0/OpenGLMathematics.v0.9.9.any.tar.gz"
